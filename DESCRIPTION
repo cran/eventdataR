@@ -1,8 +1,8 @@
 Package: eventdataR
 Type: Package
 Title: Event Data Repository
-Version: 0.1.2
-Date: 2017-12-05
+Version: 0.2.0
+Date: 2018-03-19
 Authors@R: person("Gert","Janssenswillen", email = "gert.janssenswillen@uhasselt.be", 
   role = c("aut","cre"))
 Description: Event dataset repository including both real-life and artificial event logs. They can be used in combination with functionalities provided by the 'bupaR' packages 'edeaR', 'processmapR', etc.
@@ -15,8 +15,8 @@ RoxygenNote: 6.0.1
 VignetteBuilder: knitr
 Suggests: knitr, rmarkdown
 NeedsCompilation: no
-Packaged: 2017-12-05 11:52:10 UTC; lucp8407
+Packaged: 2018-03-20 08:42:28 UTC; lucp8407
 Author: Gert Janssenswillen [aut, cre]
 Maintainer: Gert Janssenswillen <gert.janssenswillen@uhasselt.be>
 Repository: CRAN
-Date/Publication: 2017-12-05 11:59:16 UTC
+Date/Publication: 2018-03-20 09:14:41 UTC
