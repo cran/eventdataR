@@ -4,7 +4,9 @@
 \name{sepsis}
 \alias{sepsis}
 \title{Sepsis Cases - Event Log}
-\format{Eventlog containing 1050 cases}
+\format{
+Eventlog containing 1050 cases
+}
 \source{
 <http://data.4tu.nl/repository/uuid:915d2bfb-7e84-49ad-a286-dc35f063a460>
 }

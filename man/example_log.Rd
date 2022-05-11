@@ -4,12 +4,21 @@
 \name{example_log}
 \alias{example_log}
 \alias{patients}
+\alias{patients_act}
 \title{Patients eventlog}
-\format{Eventlog containing 500 patient cases}
+\format{
+Eventlog containing 500 patient cases
+
+Activitylog containing 500 patient cases
+}
 \usage{
 patients
+
+patients_act
 }
 \description{
 Artifical eventlog about patients
+
+Artifical activitylog about patients - equivalent to patients
 }
 \keyword{datasets}

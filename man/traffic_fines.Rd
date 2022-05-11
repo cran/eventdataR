@@ -4,7 +4,9 @@
 \name{traffic_fines}
 \alias{traffic_fines}
 \title{Road Traffic Fina Management Process Log}
-\format{Eventlog containing 150370 cases}
+\format{
+Eventlog containing 150370 cases
+}
 \source{
 <https://data.4tu.nl/repository/uuid:270fd440-1057-4fb9-89a9-b699b47990f5>
 }

@@ -4,7 +4,9 @@
 \name{hospital}
 \alias{hospital}
 \title{Hospital log}
-\format{Eventlog containing 1143 cases}
+\format{
+Eventlog containing 1143 cases
+}
 \source{
 <https://data.4tu.nl/repository/uuid:d9769f3d-0ab0-4fb8-803b-0d1120ffcf54>
 }

@@ -10,4 +10,4 @@ vignette: >
 ---
 This package contains several event datasets. They can be used in combination with functionalities provided by the bupaR packages edeaR, processmapR, etc.
 
-For more information, please check <https://www.bupar.net>
+For more information, please check <https://bupar.net/>

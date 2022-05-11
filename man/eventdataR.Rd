@@ -3,7 +3,6 @@
 \docType{package}
 \name{eventdataR}
 \alias{eventdataR}
-\alias{eventdataR-package}
 \title{eventdataR - Event Data Repository}
 \description{
 Several example event logs for the analysis of business processes
