@@ -1,4 +1,4 @@
-053b679d20a9e2b945c72828faa90f15 *DESCRIPTION
+6c6ec0ba5fc30746802c09d9e2e05096 *DESCRIPTION
 597464dec154b66fd06b45a103d86e18 *LICENSE
 e65afa4d1356eb079f4e2c5044fbac92 *NAMESPACE
 241e9cf16785b7152d57f78687d64d89 *R/datasets_documentation.R
@@ -7,10 +7,10 @@ ccafe9839894230023959764bfeecbde *build/vignette.rds
 b090fee416b5dda79d6ff334432a7ff6 *data/hospital.rda
 6ba955b31173915b1cb225d7425865c7 *data/hospital_billing.rda
 2864f2214ab1107de64a142efd34eea9 *data/patients.rda
-5e3306eff015d5e0f6df579bf261e9fa *data/patients_act.rda
+c411c98247513376aa1f868f3b8cbdf1 *data/patients_act.rda
 b170ac1b597d188ecddddb9e303ab1df *data/sepsis.rda
 ae1a29423532bd9380356212d16a3729 *data/traffic_fines.rda
-9fbf5f5825cb5ab78309bf981e8f1254 *inst/doc/eventdataR.html
+6e87315574f3abf4f4313e049b02c080 *inst/doc/eventdataR.html
 d15189ae573d541b84888b3796331cb4 *inst/doc/eventdataR.rmd
 49760183d9cc42f689a92f7278247ab6 *man/eventdataR.Rd
 7a1949da76b72f9baf4642778545904f *man/example_log.Rd
